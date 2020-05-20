@@ -7,7 +7,7 @@ assignees: mpoelchau
 
 ---
 
-See https://gitlab.com/i5k_Workspace/workspace_roadmap/wikis/Adding-an-organism-to-the-i5k-Workspace-NAL-version for full description of each task.
+See https://gitlab.com/i5k_Workspace/workspace_roadmap/-/wikis/Adding-an-organism-CWL-update for full description of each task (requires gitlab login)
 
 - [ ] 1. Set up data directories and get data
 - [ ] 2. Verify data
