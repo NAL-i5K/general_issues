@@ -27,5 +27,5 @@ assignees: 'suryasaha'
 
 
 # KOBAS
-- [ ] Run identify
+- [ ] Run annotate
 - [ ] Compare to InterProScan pathways
