@@ -1,7 +1,7 @@
 ---
 name: Functional annotation
 about: Tasks to create functional annotation for a Official Gene Set.
-title: 'Functional annotation: [Genus species]'
+title: 'Functional annotation: [Genus species]', rough taxonomic grouping
 labels: functional_annotation
 assignees: 'suryasaha'
 
