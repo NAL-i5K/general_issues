@@ -19,6 +19,7 @@ assignees: 'suryasaha'
 - [ ] GAQ analysis
 
 # InterProScan
+- [ ] Run with pathway prediction (-g -l -p -M)
 - [ ] GO slim at Agbase
 - [ ] GAQ analysis
 - [ ] Combine GAF with GOanna results
