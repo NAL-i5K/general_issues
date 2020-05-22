@@ -9,7 +9,8 @@ assignees: 'suryasaha'
 
 # OGS quality control
 - [ ] Summary statistics
-- [ ] Compare to Drosophila and Swissprot insecta
+- [ ] Compare to Drosophila
+- [ ] Compare to Swissprot insecta
 
 # GOanna
 - [ ] Validate blast hits
