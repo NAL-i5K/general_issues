@@ -29,3 +29,7 @@ assignees: 'suryasaha'
 # KOBAS
 - [ ] Run annotate
 - [ ] Compare to InterProScan pathways
+
+
+# README
+- [ ] README from template https://gist.github.com/suryasaha/8292d5b3fa756c59ffc8dd17564dea3e
