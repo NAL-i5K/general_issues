@@ -3,7 +3,7 @@ name: Functional annotation
 about: Tasks to create functional annotation for a Official Gene Set.
 title: 'Functional annotation: [Genus species, rough taxonomic group or common name]'
 labels: functional_annotation
-assignees: 'suryasaha'
+assignees: suryasaha
 
 ---
 
