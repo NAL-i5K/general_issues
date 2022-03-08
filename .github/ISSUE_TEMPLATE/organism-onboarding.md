@@ -11,6 +11,7 @@ See https://gitlab.com/i5k_Workspace/workspace_roadmap/-/wikis/Adding-an-organis
 
 - assembly accession number:
 - publication associated with assembly:
+- due date:
 
 # Tasks on Ceres:
 - [ ] 1. Run the final_workflow.cwl component of the organism_onboarding pipeline (https://gitlab.com/i5k_Workspace/workspace_roadmap/-/wikis/Adding-an-organism-CWL-update#1-run-the-final_workflowcwl-component-of-the-organism_onboarding-pipeline-httpsgithubcomnal-i5korganism_onboarding)
