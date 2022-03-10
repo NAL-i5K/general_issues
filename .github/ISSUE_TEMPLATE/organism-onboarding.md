@@ -15,7 +15,7 @@ See https://gitlab.com/i5k_Workspace/workspace_roadmap/-/wikis/Adding-an-organis
 
 # Tasks on Ceres:
 - [ ] 1. Run the final_workflow.cwl component of the organism_onboarding pipeline (https://gitlab.com/i5k_Workspace/workspace_roadmap/-/wikis/Adding-an-organism-CWL-update#1-run-the-final_workflowcwl-component-of-the-organism_onboarding-pipeline-httpsgithubcomnal-i5korganism_onboarding)
-- [ ] 2. Run RNA-Seq pipeline (https://gitlab.com/i5k_Workspace/workspace_roadmap/-/wikis/Adding-RNA-Seq-data-to-an-i5k-Workspace-project-with-the-NAL_RNA_seq_annotation_pipeline)
+- [ ] 2. Run RNA-Seq pipeline, steps 1 and 2 (https://gitlab.com/i5k_Workspace/workspace_roadmap/-/wikis/Adding-RNA-Seq-data-to-an-i5k-Workspace-project-with-the-NAL_RNA_seq_annotation_pipeline)
 
 # Tasks on the NAL servers:  
 - [ ] 1. Move the final_workflow.cwl output from SCINet to apollo2-stage-node1 (https://gitlab.com/i5k_Workspace/workspace_roadmap/-/wikis/Adding-an-organism-CWL-update#3-move-the-final_workflowcwl-output-from-scinet-to-apollo2-stage-node1)
