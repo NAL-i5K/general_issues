@@ -15,7 +15,7 @@ See https://gitlab.com/i5k_Workspace/workspace_roadmap/-/wikis/Adding-an-organis
 - community contact:
 
 # Tasks on Ceres:
-- [ ] 1. Create functional annotations. https://gitlab.com/i5k_Workspace/workspace_roadmap/-/wikis/Adding-an-organism-CWL-update#0-run-the-functional-annotation-pipeline
+- [ ] 1. Create functional annotations (@amcooksey). https://gitlab.com/i5k_Workspace/workspace_roadmap/-/wikis/Adding-an-organism-CWL-update#0-run-the-functional-annotation-pipeline
 - [ ] 2. Run the final_workflow.cwl component of the organism_onboarding pipeline (https://gitlab.com/i5k_Workspace/workspace_roadmap/-/wikis/Adding-an-organism-CWL-update#1-run-the-final_workflowcwl-component-of-the-organism_onboarding-pipeline-httpsgithubcomnal-i5korganism_onboarding)
 - [ ] 3. Run RNA-Seq pipeline, steps 1 and 2 (https://gitlab.com/i5k_Workspace/workspace_roadmap/-/wikis/Adding-RNA-Seq-data-to-an-i5k-Workspace-project-with-the-NAL_RNA_seq_annotation_pipeline)
 
